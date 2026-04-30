@@ -3,6 +3,10 @@
     public function __construct($JSON_Data) {
         $this->rawData = $JSON_Data;
     }
+
+    public function getRawData() {
+        return $this->rawData;
+    }
 }
 
 namespace DB_API\JSON; class FaSta {
