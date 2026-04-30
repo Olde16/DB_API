@@ -1,0 +1,22 @@
+{
+"name": "olde16/db_api",
+"description": "Provides a class collection for working with the DB API.",
+"type": "library",
+"require-dev": {
+    "phpunit/phpunit": "^9.5"
+},
+"license": "GPL-3.0",
+"autoload": {
+    "psr-4": {
+        "DB_API/JSON\\": "src/json",
+        "DB_API/CONNECTION\\": "src/connection"
+    }
+},
+"authors": [
+    {
+        "name": "Ole Taege",
+        "email": "oletaege@gmail.com"
+    }
+],
+"require": {}
+}
