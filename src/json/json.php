@@ -23,7 +23,7 @@
     public string $total;
     public array $result of {
         "0": array of {
-                "DBinformation": {
+                "DBinformation": array of {
                     "availability": array of {
                         "friday" array of {
                             "fromTime": string,
