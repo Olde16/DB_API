@@ -1,5 +1,5 @@
 {
-"name": "olde16/db_api",
+"name": "olde16/deutschebahn-api",
 "description": "Provides a class collection for working with the DB API.",
 "type": "library",
 "require-dev": {
